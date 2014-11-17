@@ -1,0 +1,18 @@
+
+- määritetään missä virukset !
+
+  - tarkistetaan onko shapea
+	- jos on
+	--> voidaan kontrolloida
+ 	----> joka 1000ms Y-1
+	      kosketus muuhun blockiin? / ollaanko purkin pohjalla?
+		-> jos on
+		   -> ei voida kontrolloida sheippijä :D
+		   -> jos y = 0
+			--> GAIM OVER
+		   -> tarkastetaan onko pystysuunnassa neljää samanväristä palikkaaa
+		   -> tarkastetaan onko vaakasuunnassa --"--
+	      		--> jos viruksia = 0
+				-> gg
+	- jos ei
+	--> spawnataan uus shape, arvotaan siitä seuraaava?

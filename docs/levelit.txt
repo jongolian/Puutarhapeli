@@ -1,0 +1,36 @@
+LEVELIT
+	- Frametime
+	- Virusten m‰‰r‰
+	- Virusten min Y
+	- Background
+	- Musiikin tempo
+
+GAME
+	- State
+		- Mainmenu
+		- Peliss‰
+		- Pause
+	- Run
+		- ***
+	- ApplyConfig();
+
+CONFIG
+	- Teh‰ uuen config filun
+	- Lukea config filua
+
+GRID
+	- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
