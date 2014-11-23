@@ -11,6 +11,11 @@ Myös sivupalkista löytyvään Wikiin voi kirjoitella ja lisäillä sivuja. Ope
 samalla siltä varalta, että se on oikeasti toimiva työkalu, jota voidaan käyttää hyväksi myös 
 tulevissa projekteissa.
 
+Ei tässä vaiheessa vielä tarvitse välittää hirveästi siitä mitä tänne postailee, kunhan ei laita 
+mitään copyrightattua tai laitonta materiaalia kun tämä ilmainen repo on kumminkin julkinen. Jos 
+haluaa kokeilla jollain testifiluilla yms. roskalla repositoryn tai wikin käyttöä, niin siitä vaan. 
+Tärkeintä on, että hommaan saa rutiinia. Postailkaa omia kokeilukuvia ja testejä ja esimerkkejä!
+
 ====================
  Tekijät
 ====================
